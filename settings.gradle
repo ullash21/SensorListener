@@ -1,0 +1,3 @@
+rootProject.name='SensorListeners'
+include ':app'
+include ':Pure'
